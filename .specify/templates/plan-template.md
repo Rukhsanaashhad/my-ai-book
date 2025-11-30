@@ -31,7 +31,11 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- [ ] **I. Content First**: Does the plan prioritize the creation of high-quality, well-structured content?
+- [ ] **II. Clear Navigation**: Does the plan include considerations for a clear table of contents and intuitive navigation?
+- [ ] **III. Platform Portability**: Does the plan ensure that content is created in a portable format (Markdown)?
+- [ ] **IV. Docusaurus-Powered**: Does the plan leverage Docusaurus features effectively?
+- [ ] **V. Spec-Driven Development**: Is the plan itself an outcome of the "Specify, Plan, Task" workflow?
 
 ## Project Structure
 

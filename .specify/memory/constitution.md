@@ -1,55 +1,52 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!--
+---
+version_change: "none → 1.0.0"
+modified_principles: []
+added_sections:
+- "Development Workflow"
+- "Quality Assurance"
+removed_sections: []
+templates_updated:
+- path: ".specify/memory/constitution.md"
+  status: "✅"
+- path: ".specify/templates/plan-template.md"
+  status: "⚠ pending"
+- path: ".specify/templates/spec-template.md"
+  status: "⚠ pending"
+- path: ".specify/templates/tasks-template.md"
+  status: "⚠ pending"
+todos: []
+---
+-->
+# Docusaurus Book Project Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### I. Content First
+The primary focus is on creating high-quality, well-structured content, organized into chapters and pages.
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### II. Clear Navigation
+The book must be easy to navigate, with a clear table of contents and intuitive navigation controls.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### III. Platform Portability
+All content must be written in standard Markdown and be easily exportable, ensuring content is not locked to the platform.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### IV. Docusaurus-Powered
+The project will be built using Docusaurus, leveraging its features for documentation websites.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### V. Spec-Driven Development
+Development will follow the "Specify, Plan, Task" workflow, ensuring changes are deliberate and well-architected.
 
-### [PRINCIPLE_6_NAME]
+## Development Workflow
 
+All changes will be managed through the Spec-Driven Development process. This includes creating specifications, implementation plans, and task breakdowns before writing code.
 
-[PRINCIPLE__DESCRIPTION]
+## Quality Assurance
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
-
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
-
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
-
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+Automated checks and manual reviews will be used to ensure content quality, structural integrity, and adherence to these principles.
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+This constitution is the source of truth for project principles. Amendments require review and approval to ensure they align with the project's core goals. All project members are expected to adhere to these principles.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.0.0 | **Ratified**: 2025-11-30 | **Last Amended**: 2025-11-30
