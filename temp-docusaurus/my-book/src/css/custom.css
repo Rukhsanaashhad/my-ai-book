@@ -1,0 +1,188 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #3f51b5; /* A softer blue for a book feel */
+  --ifm-color-primary-dark: #303f9f;
+  --ifm-color-primary-darker: #283593;
+  --ifm-color-primary-darkest: #1a237e;
+  --ifm-color-primary-light: #7986cb;
+  --ifm-color-primary-lighter: #9fa8da;
+  --ifm-color-primary-lightest: #c5cae9;
+
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  /* Custom fonts */
+  --ifm-font-family-base: 'Open Sans', sans-serif;
+  --ifm-font-family-monospace: 'Fira Code', monospace; /* A common choice for code */
+  --ifm-font-family-headings: 'Lora', serif;
+
+  /* Typography adjustments */
+  --ifm-h1-font-size: 2.8rem;
+  --ifm-h2-font-size: 2.2rem;
+  --ifm-h3-font-size: 1.8rem;
+  --ifm-h4-font-size: 1.5rem;
+  --ifm-h5-font-size: 1.2rem;
+  --ifm-h6-font-size: 1rem;
+
+  --ifm-global-font-size: 17px; /* Slightly larger base font */
+  --ifm-line-height-base: 1.6; /* Increased line height for readability */
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #7986cb; /* Lighter primary for dark mode */
+  --ifm-color-primary-dark: #5c6bc0;
+  --ifm-color-primary-darker: #5360be;
+  --ifm-color-primary-darkest: #3f51b5;
+  --ifm-color-primary-light: #9fa8da;
+  --ifm-color-primary-lighter: #c5cae9;
+  --ifm-color-primary-lightest: #e8eaf6;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Open+Sans:wght@400;600&family=Fira+Code:wght@400&display=swap');
+
+/* Apply custom fonts */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--ifm-font-family-headings);
+  font-weight: 700;
+}
+
+body {
+  font-family: var(--ifm-font-family-base);
+  font-size: var(--ifm-global-font-size);
+  line-height: var(--ifm-line-height-base);
+}
+
+/* Adjustments for better book-like layout */
+.main-wrapper {
+  max-width: 100%; /* Make content take full width */
+  margin: 0; /* Remove auto margins */
+  padding: 0 40px; /* Adjust padding to prevent content from touching edges */
+}
+
+.markdown {
+  line-height: var(--ifm-line-height-base);
+  max-width: 960px; /* Add a max-width to markdown content for readability on very wide screens */
+  margin: 0 auto; /* Center the markdown content within the full-width wrapper */
+  padding: 20px 0; /* Adjust padding for markdown content */
+}
+
+.hero__title {
+  font-family: var(--ifm-font-family-headings);
+}
+
+/* Styling for the author banner */
+.author-banner {
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #333;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 20px; /* Add some space below the banner */
+}
+
+[data-theme='dark'] .author-banner {
+  background-color: #333;
+  color: #f0f0f0;
+  border-bottom: 1px solid #555;
+}
+
+/* Remove default Docusaurus info on main page that might look like "code dump" */
+.homepage-features {
+  display: none; /* Hide default features section */
+}
+
+.hero__subtitle {
+  font-family: var(--ifm-font-family-base);
+  font-size: 1.1em;
+}
+
+/* Adjust the sidebar width for a more spacious feel and fix text overflow */
+.theme-doc-sidebar-container {
+  width: 350px; /* Increased width to accommodate longer text */
+  max-width: 350px; /* Ensure it doesn't get wider */
+  flex-shrink: 0; /* Prevent it from shrinking */
+}
+
+.theme-doc-sidebar-menu {
+  width: 100%; /* Make the menu fill the container */
+  overflow-x: hidden; /* Hide horizontal overflow */
+}
+
+.menu__list {
+  padding-right: 15px; /* Add padding to the right of the entire list to prevent text from hitting the edge */
+}
+
+.menu__link {
+  white-space: normal; /* Allow text to wrap */
+  word-break: break-word; /* Break long words */
+  overflow: visible; /* Ensure text is not hidden */
+  text-overflow: unset; /* Prevent ellipsis */
+  padding-right: 0; /* Reset previous padding if any, it's handled by .menu__list now */
+}
+
+.sidebar-category-list,
+.sidebar-link {
+  font-size: 0.95em;
+}
+
+/* Code block styling */
+code {
+  background-color: var(--ifm-code-background-color);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-family: var(--ifm-font-family-monospace);
+}
+
+pre {
+  background-color: var(--ifm-code-background-color);
+  padding: 1em;
+  border-radius: var(--ifm-pre-border-radius);
+  overflow-x: auto;
+  font-family: var(--ifm-font-family-monospace);
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+/* Table styling for readability */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  display: block; /* For responsiveness */
+  overflow-x: auto; /* For responsiveness */
+}
+
+table th, table td {
+  border: 1px solid var(--ifm-table-border-color);
+  padding: 0.8rem;
+  text-align: left;
+}
+
+table th {
+  background-color: var(--ifm-table-head-background-color);
+  font-weight: bold;
+}
+
+/* Links */
+a {
+  color: var(--ifm-link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
