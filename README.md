@@ -78,6 +78,17 @@ my-ai-book/
 ├── ⚙️ docusaurus.config.js # Main configuration
 └── 🚀 package.json # Project dependencies
 
+<div align="center">
+Muhammad Ashhad Khan
+AI Developer & Tech Educator
+
+https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-000?style=flat&logo=google-chrome
+https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-0A66C2?style=flat&logo=linkedin
+https://img.shields.io/badge/%F0%9F%90%99_GitHub-181717?style=flat&logo=github
+
+</div>
+
+
 
 ## 🚀 Getting Started
 
@@ -108,55 +119,5 @@ npm run build
 npm run deploy
 
 
-🌟 Chapters Deep Dive
-Chapter	Topics Covered	Skill Level
-1. Foundations	AI Concepts, Tools Setup	Beginner
-2. Core Development	Prompt Engineering, Workflows	Intermediate
-3. Advanced Patterns	Integration, Optimization	Advanced
-4. Real Projects	Case Studies, Examples	Expert
-🏆 Achievement Badges Earned
-Badge	Earned For
-https://img.shields.io/badge/AI-Development-FF6B6B	Using AI in development workflow
-https://img.shields.io/badge/Full-Stack-4ECDC4	Frontend + Backend + DevOps
-https://img.shields.io/badge/Zero-Cost_Deployment-45B7D1	Free GitHub Pages hosting
-https://img.shields.io/badge/Modern-Tech_Stack-96CEB4	Latest tools and frameworks
-👨‍💻 About the Author
-<div align="center">
-Muhammad Ashhad Khan
-AI Developer & Tech Educator
 
-https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-000?style=flat&logo=google-chrome
-https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-0A66C2?style=flat&logo=linkedin
-https://img.shields.io/badge/%F0%9F%90%99_GitHub-181717?style=flat&logo=github
 
-</div>
-🤝 Contributing
-Love the project? Want to make it better?
-
-Fork the repository
-
-Create your feature branch
-
-Commit your changes
-
-Push to the branch
-
-Open a Pull Request
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-🙏 Acknowledgments
-SpecifyPlus Team for amazing AI development tools
-
-Docusaurus Community for the fantastic framework
-
-GitHub for free hosting and CI/CD
-
-All Contributors who helped shape this project
-
-<div align="center">
-⭐ If this project helped you, give it a star! ⭐
-Built with passion, powered by AI, deployed for the world! 🚀
-
-</div> ```
