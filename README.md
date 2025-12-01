@@ -80,15 +80,41 @@ my-ai-book/
 
 <div align="center">
 
-## ✨ **Muhammad Ashhad Khan**
-### 🚀 *AI Developer & Tech Educator*
+<!-- Profile Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Muhammad%20Ashhad%20Khan&fontSize=40&fontAlignY=35&animation=fadeIn" />
 
-[![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashhadarsalan-portfolio.vercel.app/)
-[![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashhad-khan-89484b2b5/)
-[![🐱 GitHub](https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukhsanaashhad)
-[![📧 Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxtraders712@example.com)
+### 🤖 AI Developer | 📚 Tech Educator | 🚀 Open Source Enthusiast
 
-**Passionate about AI, Open Source, and Teaching Technology**
+<!-- Social Badges -->
+<p align="center">
+  <a href="[https://ashhadkhan.com](https://ashhadarsalan-portfolio.vercel.app/)">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashhad-khan-89484b2b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rukhsanaashhad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:maxtraders712@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<!-- Tech Stack -->
+<h3>🛠️ Tech Stack</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI/ML-FF6B6B?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docusaurus-2ECC71?style=flat&logo=docusaurus&logoColor=white" />
+</p>
+
+<!-- Quote -->
+<p align="center">
+  <i>"Turning complex AI concepts into accessible learning experiences"</i>
+</p>
 
 </div>
 
