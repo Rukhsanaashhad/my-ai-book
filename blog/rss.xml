@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>AI Driven Development Book Blog</title>
-        <link>https://your-docusaurus-site.example.com/blog</link>
+        <link>https://rukhsanaashhad.github.io/my-ai-book/blog</link>
         <description>AI Driven Development Book Blog</description>
         <lastBuildDate>Sun, 30 Nov 2025 19:29:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,13 +10,13 @@
         <language>en</language>
         <item>
             <title><![CDATA[Generate Tasks for AI Driven Development Book]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/001-ai-dev-book/03-generate-tasks-for-ai-driven-development-book.tasks.prompt</link>
-            <guid>https://your-docusaurus-site.example.com/blog/001-ai-dev-book/03-generate-tasks-for-ai-driven-development-book.tasks.prompt</guid>
+            <link>https://rukhsanaashhad.github.io/my-ai-book/blog/001-ai-dev-book/03-generate-tasks-for-ai-driven-development-book.tasks.prompt</link>
+            <guid>https://rukhsanaashhad.github.io/my-ai-book/blog/001-ai-dev-book/03-generate-tasks-for-ai-driven-development-book.tasks.prompt</guid>
             <pubDate>Sun, 30 Nov 2025 19:29:31 GMT</pubDate>
             <description><![CDATA[PROMPT]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="prompt">PROMPT<a href="https://your-docusaurus-site.example.com/blog/001-ai-dev-book/03-generate-tasks-for-ai-driven-development-book.tasks.prompt#prompt" class="hash-link" aria-label="Direct link to PROMPT" title="Direct link to PROMPT" translate="no">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="prompt">PROMPT<a href="https://rukhsanaashhad.github.io/my-ai-book/blog/001-ai-dev-book/03-generate-tasks-for-ai-driven-development-book.tasks.prompt#prompt" class="hash-link" aria-label="Direct link to PROMPT" title="Direct link to PROMPT" translate="no">​</a></h2>
 <p>/sp.tasks</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="response">RESPONSE<a href="https://your-docusaurus-site.example.com/blog/001-ai-dev-book/03-generate-tasks-for-ai-driven-development-book.tasks.prompt#response" class="hash-link" aria-label="Direct link to RESPONSE" title="Direct link to RESPONSE" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="response">RESPONSE<a href="https://rukhsanaashhad.github.io/my-ai-book/blog/001-ai-dev-book/03-generate-tasks-for-ai-driven-development-book.tasks.prompt#response" class="hash-link" aria-label="Direct link to RESPONSE" title="Direct link to RESPONSE" translate="no">​</a></h2>
 <p>I have generated the tasks for the AI-Driven Development Book project.</p>
 <ul>
 <li class=""><strong>Branch</strong>: <code>001-ai-dev-book</code></li>
@@ -26,13 +26,13 @@
         </item>
         <item>
             <title><![CDATA[Plan for AI Driven Development Book]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/001-ai-dev-book/02-plan-for-ai-driven-development-book.plan.prompt</link>
-            <guid>https://your-docusaurus-site.example.com/blog/001-ai-dev-book/02-plan-for-ai-driven-development-book.plan.prompt</guid>
+            <link>https://rukhsanaashhad.github.io/my-ai-book/blog/001-ai-dev-book/02-plan-for-ai-driven-development-book.plan.prompt</link>
+            <guid>https://rukhsanaashhad.github.io/my-ai-book/blog/001-ai-dev-book/02-plan-for-ai-driven-development-book.plan.prompt</guid>
             <pubDate>Sun, 30 Nov 2025 19:26:23 GMT</pubDate>
             <description><![CDATA[PROMPT]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="prompt">PROMPT<a href="https://your-docusaurus-site.example.com/blog/001-ai-dev-book/02-plan-for-ai-driven-development-book.plan.prompt#prompt" class="hash-link" aria-label="Direct link to PROMPT" title="Direct link to PROMPT" translate="no">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="prompt">PROMPT<a href="https://rukhsanaashhad.github.io/my-ai-book/blog/001-ai-dev-book/02-plan-for-ai-driven-development-book.plan.prompt#prompt" class="hash-link" aria-label="Direct link to PROMPT" title="Direct link to PROMPT" translate="no">​</a></h2>
 <p>/sp.plan</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="response">RESPONSE<a href="https://your-docusaurus-site.example.com/blog/001-ai-dev-book/02-plan-for-ai-driven-development-book.plan.prompt#response" class="hash-link" aria-label="Direct link to RESPONSE" title="Direct link to RESPONSE" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="response">RESPONSE<a href="https://rukhsanaashhad.github.io/my-ai-book/blog/001-ai-dev-book/02-plan-for-ai-driven-development-book.plan.prompt#response" class="hash-link" aria-label="Direct link to RESPONSE" title="Direct link to RESPONSE" translate="no">​</a></h2>
 <p>I have created the implementation plan for the AI-Driven Development Book project.</p>
 <ul>
 <li class=""><strong>Branch</strong>: <code>001-ai-dev-book</code></li>
@@ -50,13 +50,13 @@
         </item>
         <item>
             <title><![CDATA[Specify AI Driven Development Book Project]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/001-ai-dev-book/01-specify-ai-driven-development-book-project.spec.prompt</link>
-            <guid>https://your-docusaurus-site.example.com/blog/001-ai-dev-book/01-specify-ai-driven-development-book-project.spec.prompt</guid>
+            <link>https://rukhsanaashhad.github.io/my-ai-book/blog/001-ai-dev-book/01-specify-ai-driven-development-book-project.spec.prompt</link>
+            <guid>https://rukhsanaashhad.github.io/my-ai-book/blog/001-ai-dev-book/01-specify-ai-driven-development-book-project.spec.prompt</guid>
             <pubDate>Sun, 30 Nov 2025 19:18:41 GMT</pubDate>
             <description><![CDATA[PROMPT]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="prompt">PROMPT<a href="https://your-docusaurus-site.example.com/blog/001-ai-dev-book/01-specify-ai-driven-development-book-project.spec.prompt#prompt" class="hash-link" aria-label="Direct link to PROMPT" title="Direct link to PROMPT" translate="no">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="prompt">PROMPT<a href="https://rukhsanaashhad.github.io/my-ai-book/blog/001-ai-dev-book/01-specify-ai-driven-development-book-project.spec.prompt#prompt" class="hash-link" aria-label="Direct link to PROMPT" title="Direct link to PROMPT" translate="no">​</a></h2>
 <p>/sp.specify Create a book project for Docusaurus about AI Driven Development with: - Multiple chapters and pages - Table of contents - Navigation between pages - Markdown format export - Ready to deploy on Docusaurus website</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="response">RESPONSE<a href="https://your-docusaurus-site.example.com/blog/001-ai-dev-book/01-specify-ai-driven-development-book-project.spec.prompt#response" class="hash-link" aria-label="Direct link to RESPONSE" title="Direct link to RESPONSE" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="response">RESPONSE<a href="https://rukhsanaashhad.github.io/my-ai-book/blog/001-ai-dev-book/01-specify-ai-driven-development-book-project.spec.prompt#response" class="hash-link" aria-label="Direct link to RESPONSE" title="Direct link to RESPONSE" translate="no">​</a></h2>
 <p>I have created the feature specification for the AI-Driven Development Book project.</p>
 <ul>
 <li class=""><strong>Branch</strong>: <code>001-ai-dev-book</code></li>
@@ -67,11 +67,11 @@
         </item>
         <item>
             <title><![CDATA[Establish Constitution for Docusaurus Book Project]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/constitution/01-establish-constitution-for-docusaurus-book-project.constitution.prompt</link>
-            <guid>https://your-docusaurus-site.example.com/blog/constitution/01-establish-constitution-for-docusaurus-book-project.constitution.prompt</guid>
+            <link>https://rukhsanaashhad.github.io/my-ai-book/blog/constitution/01-establish-constitution-for-docusaurus-book-project.constitution.prompt</link>
+            <guid>https://rukhsanaashhad.github.io/my-ai-book/blog/constitution/01-establish-constitution-for-docusaurus-book-project.constitution.prompt</guid>
             <pubDate>Sun, 30 Nov 2025 18:53:22 GMT</pubDate>
             <description><![CDATA[PROMPT]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="prompt">PROMPT<a href="https://your-docusaurus-site.example.com/blog/constitution/01-establish-constitution-for-docusaurus-book-project.constitution.prompt#prompt" class="hash-link" aria-label="Direct link to PROMPT" title="Direct link to PROMPT" translate="no">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="prompt">PROMPT<a href="https://rukhsanaashhad.github.io/my-ai-book/blog/constitution/01-establish-constitution-for-docusaurus-book-project.constitution.prompt#prompt" class="hash-link" aria-label="Direct link to PROMPT" title="Direct link to PROMPT" translate="no">​</a></h2>
 <p>/sp.constitution I want to build a book/documentation project for Docusaurus.
 The book should have:</p>
 <ul>
@@ -81,7 +81,7 @@ The book should have:</p>
 <li class="">Navigation</li>
 <li class="">Export to Markdown format</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="response">RESPONSE<a href="https://your-docusaurus-site.example.com/blog/constitution/01-establish-constitution-for-docusaurus-book-project.constitution.prompt#response" class="hash-link" aria-label="Direct link to RESPONSE" title="Direct link to RESPONSE" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="response">RESPONSE<a href="https://rukhsanaashhad.github.io/my-ai-book/blog/constitution/01-establish-constitution-for-docusaurus-book-project.constitution.prompt#response" class="hash-link" aria-label="Direct link to RESPONSE" title="Direct link to RESPONSE" translate="no">​</a></h2>
 <p>I have updated the project constitution to align with your request for a Docusaurus book project.</p>
 <ul>
 <li class=""><strong>Version</strong>: 1.0.0</li>
