@@ -79,12 +79,16 @@ my-ai-book/
 └── 🚀 package.json # Project dependencies
 
 <div align="center">
-Muhammad Ashhad Khan
-AI Developer & Tech Educator
 
-https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-000?style=flat&logo=google-chrome
-https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-0A66C2?style=flat&logo=linkedin
-https://img.shields.io/badge/%F0%9F%90%99_GitHub-181717?style=flat&logo=github
+## ✨ **Muhammad Ashhad Khan**
+### 🚀 *AI Developer & Tech Educator*
+
+[![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashhadarsalan-portfolio.vercel.app/)
+[![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashhad-khan-89484b2b5/)
+[![🐱 GitHub](https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukhsanaashhad)
+[![📧 Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxtraders712@example.com)
+
+**Passionate about AI, Open Source, and Teaching Technology**
 
 </div>
 
