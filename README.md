@@ -87,7 +87,7 @@ my-ai-book/
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="[https://ashhadkhan.com](https://ashhadarsalan-portfolio.vercel.app/)">
+  <a href="https://ashhadarsalan-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ashhad-khan-89484b2b5/">
